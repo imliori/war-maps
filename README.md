@@ -15,4 +15,4 @@ Each map contains:
 - Obstacles encountered
 
 ## Why "War Maps"?
-Because note-taking is not reporting. It's operational intelligence.
+Because note-taking is not reporting. It's fun.
