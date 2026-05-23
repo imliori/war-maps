@@ -1,5 +1,4 @@
-##War Maps
-
+🗺️ War Maps
 My war maps for CTFs, labs, and cybersecurity challenges.
 
 ## Structure
