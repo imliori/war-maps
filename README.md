@@ -1,19 +1,19 @@
-# 🗺️ War Maps
+War Maps
 
-Meus mapas de guerra para CTFs, laboratórios e desafios de cybersecurity.
+My war maps for CTFs, labs, and cybersecurity challenges.
 
-## Estrutura
+## Structure
 - `/bandit` - OverTheWire Bandit
-- `/cylabs` - Desafios do picoCTF
-- `/tryhackme` - Salas completadas
-- `/overthewire` - Wargames completados
+- `/picoctf` - picoCTF challenges
+- `/tryhackme` - Completed rooms
+- `/overthewire` - Other wargames (Leviathan, Natas, etc.)
 
-## Formato
-Cada mapa contém:
-- Comandos usados
-- Saídas relevantes
-- Raciocínio passo a passo
-- Dificuldades encontradas
+## Format
+Each map contains:
+- Commands used
+- Relevant outputs
+- Step-by-step reasoning
+- Obstacles encountered
 
-## Por que "War Maps"?
-Porque anotação não é relatório. É inteligência operacional.
+## Why "War Maps"?
+Because note-taking is not reporting. It's operational intelligence.
